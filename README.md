@@ -1,21 +1,14 @@
 # 👋 Hey! I'm Gourab Krishna Saha
 
-### 💻 CSE Undergraduate @ BRAC University | AI/ML | Software Development
+## 💻 About Me
 
-I'm a Computer Science & Engineering undergraduate at **BRAC University**, interested in how machines learn from data, how software systems are designed, and how ideas can be turned into practical products.
+I am a Computer Science and Engineering undergraduate at **BRAC University** with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Software Development**.
 
-Most of my learning comes from building things end-to-end — from a **MERN-based scholarship disbursement platform** to a **3D rail-shooter built with PyOpenGL** and a **student database implemented in x86 Assembly**.
+I enjoy applying technical knowledge to practical problems and building functional solutions through projects and research. My experience includes working with **full-stack web applications, computer graphics, and software development**, using technologies such as **Python, React, Node.js, TensorFlow, PyTorch, OpenCV, and modern development tools**.
 
-I'm currently exploring **Artificial Intelligence, Machine Learning, Natural Language Processing, and research-oriented problem solving**, while continuing to strengthen my software engineering skills.
+Alongside my technical work, I actively participate in **research and extracurricular activities**, which have strengthened my skills in **teamwork, communication, leadership, and problem-solving**.
 
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourab%20Krishna%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourab-krishna-saha/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gks-10.vercel.app/)
+I am currently focused on expanding my expertise in **AI/ML and software development**, building meaningful projects, and exploring opportunities for **research and professional growth**. I am particularly interested in opportunities where I can contribute, learn from experienced professionals, and develop solutions with **real-world impact**.
 
 ---
 
