@@ -61,22 +61,6 @@ I am currently focused on expanding my expertise in **AI/ML and software develop
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
----
-
-
-## 🔬 Research Interests
-
-🧠 Artificial Intelligence  
-🤖 Machine Learning  
-💬 Natural Language Processing  
-🎙️ Speech Recognition  
-🇧🇩 Bengali Language Processing  
-👥 Human-Centered Computing  
-⚙️ Intelligent Systems
-
-
-
-Exploring the intersection of technology, design, and digital products.
 
 ---
 
