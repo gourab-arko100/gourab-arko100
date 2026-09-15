@@ -10,6 +10,14 @@ I am currently focused on expanding my expertise in **AI/ML and software develop
 
 ---
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourab%20Krishna%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourab-krishna-saha/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gks-10.vercel.app/)
+
+---
+
 ## 🧑‍💻 Tech Stack
 
 ### 💻 Programming
