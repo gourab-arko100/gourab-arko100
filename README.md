@@ -1,7 +1,5 @@
 # 👋 Hey! I'm Gourab Krishna Saha
 
-## 💻 About Me
-
 I am a Computer Science and Engineering undergraduate at **BRAC University** with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Software Development**.
 
 I enjoy applying technical knowledge to practical problems and building functional solutions through projects and research. My experience includes working with **full-stack web applications, computer graphics, and software development**, using technologies such as **Python, React, Node.js, TensorFlow, PyTorch, OpenCV, and modern development tools**.
