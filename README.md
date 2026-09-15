@@ -8,9 +8,6 @@ Most of my learning comes from building things end-to-end — from a **MERN-base
 
 I'm currently exploring **Artificial Intelligence, Machine Learning, Natural Language Processing, and research-oriented problem solving**, while continuing to strengthen my software engineering skills.
 
-Outside coursework, I contribute to several BRAC University organizations, including the **Robotics Club, Research for Development Club, Computer Club, and Esports Club**, where I've gained experience in research, coordination, event organization, and teamwork.
-
-I'm also building **NexaForce Digital Solutions**, exploring how technology, design, and digital products come together in a real-world business context.
 
 ---
 
@@ -78,20 +75,7 @@ I'm also building **NexaForce Digital Solutions**, exploring how technology, des
 👥 Human-Centered Computing  
 ⚙️ Intelligent Systems
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourab-arko100&show_icons=true&hide_border=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourab-arko100&layout=compact&hide_border=true&theme=dark" height="180"/>
-</p>
-
----
-
-## 🚀 Currently Building
-
-**NexaForce Digital Solutions**
 
 Exploring the intersection of technology, design, and digital products.
 
