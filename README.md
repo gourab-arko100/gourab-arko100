@@ -67,21 +67,6 @@ I'm also building **NexaForce Digital Solutions**, exploring how technology, des
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎓 Education Aid Disbursement System
-A MERN-based platform designed to manage scholarship and education aid distribution.
-
-### 🧠 AI-Powered Voice Note Translator
-A research-oriented project focused on Bengali speech processing and intelligent language correction for people with aphasia.
-
-### 🎮 3D Rail Shooter
-A 3D game developed using Python and PyOpenGL, featuring custom rendering and collision detection.
-
-### 💾 Student Database System
-A low-level database project implemented using x86 Assembly, exploring memory, registers, and system-level programming.
-
----
 
 ## 🔬 Research Interests
 
