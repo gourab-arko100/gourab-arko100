@@ -67,7 +67,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab-arko100&theme=radical" width="70%" alt="GitHub streak statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourab-arko100&theme=radical" width="49%" alt="GitHub statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gourab-arko100&theme=radical" width="49%" alt="Repositories per language">
 
 <br><br>
 
