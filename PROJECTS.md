@@ -1,6 +1,6 @@
 # 🧪 Projects
 
-[← Back to profile](../README.md)
+[← Back to profile](README.md)
 
 | Project | What it does | Built with | Links |
 | --- | --- | --- | --- |

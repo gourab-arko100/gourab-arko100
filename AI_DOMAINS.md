@@ -1,6 +1,6 @@
 # 🧠 AI Domains
 
-[← Back to profile](../README.md)
+[← Back to profile](README.md)
 
 | Domain | Tools |
 | --- | --- |

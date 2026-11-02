@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Generates every SVG in ../assets. Edit the text here, then run:
+"""Generates every SVG in this folder. Edit the text here, then run:
 
     pip install fonttools
-    python tools/build_assets.py
+    python build_assets.py
 
 Fonts are subset and embedded, so the graphics look the same on every device.
 """
@@ -18,7 +18,7 @@ from fontTools import subset
 from fontTools.ttLib import TTFont
 
 ROOT = Path(__file__).resolve().parent
-OUT = ROOT.parent / "assets"
+OUT = ROOT
 OUT.mkdir(exist_ok=True)
 
 BG, PANEL, TILE, LINE = "#070b14", "#0b1222", "#111a2e", "#25324f"
@@ -44,7 +44,7 @@ def font_css(body):
             chars |= set(html.unescape(re.sub(r"<[^>]+>", "", m.group(1))))
         if not chars:
             continue
-        font = TTFont(ROOT / "fonts" / file)
+        font = TTFont(ROOT / file)
         options = subset.Options()
         options.flavor = "woff"
         options.layout_features = ["kern", "liga"]
@@ -401,7 +401,7 @@ def recolor(svg, *pairs):
 
 
 def icon(name):
-    svg = (ROOT / "icons" / f"{name}.svg").read_text(encoding="utf-8")
+    svg = (ROOT / f"{name}.svg").read_text(encoding="utf-8")
     if name == "nextjs":
         svg = recolor(svg, ('<circle cx="64" cy="64" r="64"/>', '<circle cx="64" cy="64" r="64" fill="#fff"/>'),
                       ('stop-color="#fff"', 'stop-color="#000"'), ('stop-color="white"', 'stop-color="#000"'))

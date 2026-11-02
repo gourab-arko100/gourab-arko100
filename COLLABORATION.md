@@ -1,6 +1,6 @@
 # 🤝 Collaboration
 
-[← Back to profile](../README.md)
+[← Back to profile](README.md)
 
 I'm looking for opportunities where I can contribute, learn from experienced professionals, and develop solutions with real-world impact.
 
