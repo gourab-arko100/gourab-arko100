@@ -16,4 +16,4 @@
 | **SimpleFS** | Simple file system implementation, built as an Operating Systems group project | C | [Code](https://github.com/gourab-arko100/321-Project-file) |
 | **BBEEN** | Bangladesh Board Examination Emergency Network design with topology, VLSM subnetting, and routing, built as a group project | Cisco Packet Tracer | — |
 | **Student Database Management System** | Database system for managing student records | — | — |
-| **Portfolio Website** | Multi-page personal site with project case studies, journey, and contact pages | HTML, CSS, JavaScript | [Live](https://portfolio-gks-10.vercel.app/) |
+
