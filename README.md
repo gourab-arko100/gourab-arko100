@@ -1,69 +1,122 @@
-# 👋 Hey! I'm Gourab Krishna Saha
+<div align="center">
 
-I am a Computer Science and Engineering undergraduate at **BRAC University** with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and Software Development**.
+<a href="https://portfolio-gks-10.vercel.app/"><img src="assets/banner.svg" width="100%" alt="Gourab Krishna Saha"></a>
 
-I enjoy applying technical knowledge to practical problems and building functional solutions through projects and research. My experience includes working with **full-stack web applications, computer graphics, and software development**, using technologies such as **Python, React, Node.js, TensorFlow, PyTorch, OpenCV, and modern development tools**.
+### `> Hey There!, I am` [Gourab Krishna Saha](https://www.linkedin.com/in/gourab-krishna-saha/)
 
-Alongside my technical work, I actively participate in **research and extracurricular activities**, which have strengthened my skills in **teamwork, communication, leadership, and problem-solving**.
+`「 CSE undergraduate at BRAC University building practical software across AI, ML, and the web 」`
 
-I am currently focused on expanding my expertise in **AI/ML and software development**, building meaningful projects, and exploring opportunities for **research and professional growth**. I am particularly interested in opportunities where I can contribute, learn from experienced professionals, and develop solutions with **real-world impact**.
+<br>
 
----
+<img src="assets/typing.svg" width="90%" alt="CSE undergraduate at BRAC University, exploring AI, ML, CV and NLP, building full-stack web applications">
 
-## 🌐 Connect With Me
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourab%20Krishna%20Saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourab-krishna-saha/)
+<a href="https://portfolio-gks-10.vercel.app/"><img src="assets/control_surface.svg" width="100%" alt="Profile control surface: CSE undergraduate at BRAC University, focused on AI, ML and software, open to research and projects"></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gks-10.vercel.app/)
+<br>
 
----
+**[Website](https://portfolio-gks-10.vercel.app/) &nbsp;|&nbsp; [Projects](docs/PROJECTS.md) &nbsp;|&nbsp; [Collaboration](docs/COLLABORATION.md)**
 
-## 🧑‍💻 Tech Stack
+<img src="assets/divider_pulse.svg" width="100%" alt="">
 
-### 💻 Programming
+<img src="assets/title_system_access.svg" width="100%" alt="System access">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://portfolio-gks-10.vercel.app/"><img src="assets/portal_main.svg" width="90%" alt="Gourab main system: open my portfolio"></a>
 
-### 🤖 AI / Machine Learning
+<br><br>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+<a href="https://researchflow-gks.vercel.app"><img src="assets/lab_researchflow.svg" width="30%" alt="ResearchFlow"></a>
+<a href="https://gitworth-gks.vercel.app"><img src="assets/lab_gitworth.svg" width="30%" alt="GitWorth"></a>
+<a href="https://spendora-gks.vercel.app"><img src="assets/lab_spendora.svg" width="30%" alt="Spendora"></a>
 
-### 🌐 Web Development
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+<a href="docs/PROJECTS.md"><img src="assets/explore_projects.svg" width="300" alt="Explore all projects"></a>
 
-### 🗄️ Database & Backend
+<br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
+<img src="assets/divider_circuit.svg" width="100%" alt="">
 
-### 🛠️ Tools
+<img src="assets/system_core.svg" width="90%" alt="System core: full-stack web apps, AI tools and computer graphics; AI, ML, computer vision and NLP; solve practical problems and aim for real-world impact">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+<img src="assets/divider_capsule.svg" width="100%" alt="">
 
+</div>
 
----
+# 🛠 Technologies, Projects, and Domains
 
-<p align="center">
-  <i>"Building, learning, and improving — one project at a time."</i>
-</p>
+<table>
+  <tr>
+    <th>🛠 Technologies</th>
+    <th>🧪 Projects</th>
+    <th>🧠 AI Domains</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="assets/tech_grid.svg" width="370" alt="Python, JavaScript, TypeScript, C, C++, TensorFlow, PyTorch, OpenCV, Jupyter, SQL, HTML5, CSS3, React, Next.js, Node.js, Tailwind CSS, Framer Motion, MongoDB, Mongoose, PostgreSQL, NextAuth.js, Zod, Recharts, Prisma, PHP, Git, Linux, VS Code, Overleaf, Vercel"></td>
+    <td valign="top"><a href="docs/PROJECTS.md"><img src="assets/orb_projects.svg" width="170" alt="Open the projects list"></a></td>
+    <td valign="top"><a href="docs/AI_DOMAINS.md"><img src="assets/orb_ai.svg" width="170" alt="Open the AI domains list"></a></td>
+  </tr>
+</table>
+
+<div align="center">
+<img src="assets/divider_circuit.svg" width="100%" alt="">
+</div>
+
+### 📊 Vital Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=gourab-arko100&theme=radical&hide_border=true" width="70%" alt="GitHub streak statistics">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gourab-arko100&theme=radical" width="90%" alt="GitHub contribution summary">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=gourab-arko100&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Profile views">
+
+<br><br>
+
+<img src="assets/divider_tracks.svg" width="100%" alt="">
+
+</div>
+
+<table>
+  <tr>
+    <th width="50%">🤝 Collaboration</th>
+    <th width="50%">📫 Contact</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      I'm open to collaborating on:
+      <ul>
+        <li>AI and machine learning projects</li>
+        <li>Computer vision and NLP work</li>
+        <li>Full-stack web applications</li>
+        <li>Research opportunities</li>
+      </ul>
+      <a href="docs/COLLABORATION.md"><img src="assets/orb_collab.svg" width="370" alt="Open collaboration details"></a>
+    </td>
+    <td valign="top">
+      <a href="https://portfolio-gks-10.vercel.app/"><img src="assets/btn_website.svg" width="370" alt="Website"></a><br><br>
+      <a href="mailto:gourabarko100@gmail.com"><img src="assets/btn_email.svg" width="370" alt="Email"></a><br><br>
+      <a href="https://www.linkedin.com/in/gourab-krishna-saha/"><img src="assets/btn_linkedin.svg" width="370" alt="LinkedIn"></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="assets/divider_tracks.svg" width="100%" alt="">
+
+⚡ *"Building, learning, and improving — one project at a time."*
+
+**Star ⭐ the repos if they helped you!**
+
+[Portfolio](https://portfolio-gks-10.vercel.app/) · [Projects](docs/PROJECTS.md) · [AI Domains](docs/AI_DOMAINS.md) · [Collaboration](docs/COLLABORATION.md)
+
+<img src="assets/footer_wave.svg" width="100%" alt="">
+
+</div>
