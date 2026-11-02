@@ -484,7 +484,7 @@ def orb(name, w, h, cx, title, sub, c1, c2, sats, cy, cta=True, ty=None):
 
 
 def orbs():
-    orb("orb_projects", 240, 660, 120, "PROJECTS", ["ResearchFlow", "GitWorth", "Spendora", "File Pathao", "Rent A Car", "Gan Namao"], VIOLET, "#4f46e5", 6, cy=170, ty=345)
+    orb("orb_projects", 240, 660, 120, "PROJECTS", ["ResearchFlow", "GitWorth", "Spendora", "File Pathao", "Rent A Car", "+ 8 more"], VIOLET, "#4f46e5", 6, cy=170, ty=345)
     orb("orb_ai", 240, 660, 120, "AI DOMAINS", ["Machine Learning", "Computer Vision", "NLP", "Retrieval (RAG)"], CYAN, VIOLET, 6, cy=170, ty=345)
 
 

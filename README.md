@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=gourab-arko100&theme=radical&hide_border=true" width="70%" alt="GitHub streak statistics">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gourab-arko100&theme=radical" width="70%" alt="GitHub streak statistics">
 
 <br><br>
 
