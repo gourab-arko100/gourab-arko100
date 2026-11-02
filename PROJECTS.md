@@ -14,5 +14,5 @@
 | **3D Plane Game** | Rail-shooter game with real-time 3D rendering, first-person and third-person cameras, enemy AI, and collision detection | Python, PyOpenGL | [Code](https://github.com/gourab-arko100/3D-Plane-OpenGL-Game) |
 | **Gan Namao** | Search YouTube inside the app and view results with thumbnails and channel info | Next.js, TypeScript, YouTube Data API | [Live](https://gan-namao.vercel.app/) |
 | **SimpleFS** | Simple file system implementation, built as an Operating Systems group project | C | [Code](https://github.com/gourab-arko100/321-Project-file) |
-| **Student Database Management System** | Database system for managing student records | Assembly | [Code](https://github.com/gourab-arko100/Student-Database-Management-System-Assembly-Language-emu8086-) |
+| **Student Database Management System** | Database system for managing student records | Assembly Language | [Code](https://github.com/gourab-arko100/Student-Database-Management-System-Assembly-Language-emu8086-) |
 
